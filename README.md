@@ -76,3 +76,13 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ```
 
 3. Open the `Student_Placement_Prediction.ipynb` notebook using **Jupyter Notebook** or **Google Colab**, then run all cells.
+## 👥 Team Members
+
+| Name | GitHub |
+|------|--------|
+| Santy Morkos | @santymorkos867-c |
+| Asmaa Ashraf | @Asmaa-13579 |
+|Merna Adel | @MernaAdel656  |
+
+
+
