@@ -60,3 +60,19 @@ The models were evaluated using:
 - F1-score
 - ROC-AUC Score
 - Confusion Matrix
+- 
+## 💻 How to Run
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/santymorkos867-c/Student-Placement-Prediction-ML.git
+```
+
+2. Install the required libraries:
+
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn
+```
+
+3. Open the `Student_Placement_Prediction.ipynb` notebook using **Jupyter Notebook** or **Google Colab**, then run all cells.
