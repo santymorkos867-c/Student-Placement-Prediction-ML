@@ -80,7 +80,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 | Name | GitHub |
 |------|--------|
-| Ghada Mohamed | [https://github.com/sfdjd122344-blip]|
+| Ghada Mohamed | [@sfdjd122344-blip](https://github.com/sfdjd122344-blip)|
 | Asmaa Ashraf | [@Asmaa-13579 ](https://github.com/Asmaa-13579)|
 | Santy Morkos | [@santymorkos867-c](https://github.com/santymorkos867-c) |
 |Merna Adel |[ @MernaAdel656](https://github.com/MernaAdel656)  |
